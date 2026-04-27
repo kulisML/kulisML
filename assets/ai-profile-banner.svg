@@ -1,0 +1,96 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">kulissssss futuristic AI profile banner</title>
+  <desc id="desc">A futuristic neural grid banner for an AI full-stack and machine learning profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.43" stop-color="#101331"/>
+      <stop offset="1" stop-color="#081A24"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="126" y1="72" x2="1024" y2="306" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6EE7F9"/>
+      <stop offset="0.47" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(906 162) rotate(135) scale(356 224)">
+      <stop stop-color="#6EE7F9" stop-opacity="0.36"/>
+      <stop offset="0.46" stop-color="#8B5CF6" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-80" y="-80" width="1360" height="520" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.43 0 0 0 0 0.90 0 0 0 0 0.98 0 0 0 0.75 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" stroke="#24324A" stroke-width="1" opacity="0.42"/>
+    </pattern>
+    <style>
+      .scan { animation: scan 7s ease-in-out infinite; }
+      .pulse { animation: pulse 4.5s ease-in-out infinite; }
+      .pulse2 { animation: pulse 5.3s ease-in-out infinite 0.7s; }
+      .float { animation: float 8s ease-in-out infinite; }
+      @keyframes scan {
+        0%, 100% { transform: translateX(-180px); opacity: 0; }
+        18%, 72% { opacity: 0.72; }
+        50% { transform: translateX(220px); opacity: 0.38; }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.45; transform: scale(0.985); }
+        50% { opacity: 1; transform: scale(1.025); }
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)" opacity="0.62"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow)"/>
+
+  <g opacity="0.18">
+    <path d="M-80 304 C 140 244, 274 286, 458 218 S 826 76, 1264 132" stroke="#6EE7F9" stroke-width="2"/>
+    <path d="M-44 84 C 162 138, 276 96, 454 128 S 790 274, 1240 230" stroke="#A78BFA" stroke-width="2"/>
+    <path d="M80 348 C 260 300, 426 312, 602 246 S 822 116, 1138 88" stroke="#34D399" stroke-width="1.5"/>
+  </g>
+
+  <g class="float">
+    <rect x="742" y="64" width="328" height="214" rx="26" fill="#07111F" fill-opacity="0.62" stroke="url(#cyan)" stroke-opacity="0.55"/>
+    <path d="M806 226 L872 146 L932 188 L1004 104" stroke="#6EE7F9" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#softGlow)"/>
+    <circle class="pulse" cx="806" cy="226" r="10" fill="#6EE7F9"/>
+    <circle class="pulse2" cx="872" cy="146" r="10" fill="#A78BFA"/>
+    <circle class="pulse" cx="932" cy="188" r="10" fill="#34D399"/>
+    <circle class="pulse2" cx="1004" cy="104" r="10" fill="#6EE7F9"/>
+    <g opacity="0.58">
+      <rect x="786" y="254" width="46" height="6" rx="3" fill="#6EE7F9"/>
+      <rect x="846" y="254" width="92" height="6" rx="3" fill="#A78BFA"/>
+      <rect x="952" y="254" width="72" height="6" rx="3" fill="#34D399"/>
+    </g>
+  </g>
+
+  <g class="scan" opacity="0.62">
+    <rect x="126" y="60" width="6" height="242" rx="3" fill="#6EE7F9"/>
+    <rect x="142" y="60" width="96" height="242" fill="url(#cyan)" opacity="0.1"/>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <text x="86" y="140" fill="#E6EDF3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="0">kulissssss</text>
+    <text x="90" y="184" fill="#6EE7F9" font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="700" letter-spacing="0">AI x ML x FULL-STACK SYSTEMS</text>
+  </g>
+  <text x="90" y="232" fill="#B6C7E3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0">Building intelligent web products, automation flows, and polished interfaces.</text>
+  <text x="90" y="272" fill="#7DD3FC" font-family="JetBrains Mono, Consolas, monospace" font-size="18" letter-spacing="0">Python / TypeScript / React / FastAPI / ML / Agents</text>
+
+  <g class="neural" stroke="url(#cyan)" stroke-width="1.5" opacity="0.68">
+    <circle cx="420" cy="78" r="4" fill="#6EE7F9"/>
+    <circle cx="512" cy="104" r="5" fill="#A78BFA"/>
+    <circle cx="610" cy="72" r="4" fill="#34D399"/>
+    <circle cx="578" cy="160" r="5" fill="#6EE7F9"/>
+    <circle cx="682" cy="138" r="4" fill="#A78BFA"/>
+    <path d="M420 78 L512 104 L610 72 L682 138 L578 160 L512 104"/>
+    <path d="M610 72 L578 160"/>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="url(#cyan)" stroke-opacity="0.42" stroke-width="2"/>
+</svg>
