@@ -2,9 +2,9 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Build a complete local `kulisML` GitHub profile repository with a futuristic AI README, custom banner, dynamic contribution snake workflow, and validation script.
+**Goal:** Build a complete local `kulisML` GitHub profile repository with a bright AI product-builder README, custom animated hero, dynamic contribution snake workflow, and validation script.
 
-**Architecture:** The repository is a standard GitHub special profile repo: `README.md` in the root, static visual assets in `assets`, and automation in `.github/workflows`. The README uses GitHub-compatible Markdown and external readme widgets for dynamic profile content.
+**Architecture:** The repository is a standard GitHub special profile repo: `README.md` in the root, static visual assets in `assets`, and automation in `.github/workflows`. The README uses GitHub-compatible Markdown plus safe animated SVG assets that can render inside a GitHub profile.
 
 **Tech Stack:** Markdown, SVG, GitHub Actions, PowerShell validation.
 
@@ -17,30 +17,30 @@
 
 - [x] **Step 1: Write the failing validation script**
 
-The script checks for the root README, banner SVG, snake workflow, required profile copy, all current repositories, dynamic widget references, and forbidden placeholder copy.
+The script checks for the root README, bright hero SVG, snake workflow, required profile copy, all current repositories, dynamic widget references, and forbidden placeholder copy.
 
 - [x] **Step 2: Run the validation script before implementation**
 
 Run:
 
 ```powershell
-& 'C:\Users\рс\Desktop\github acc\kulisML\scripts\validate-profile.ps1'
+.\scripts\validate-profile.ps1
 ```
 
-Expected: FAIL with `Missing required file: ...\README.md`.
+Expected: FAIL before the README and bright hero exist.
 
-### Task 2: Static Profile Assets
+### Task 2: Bright Animated Hero
 
 **Files:**
-- Create: `assets/ai-profile-banner.svg`
+- Create: `assets/bright-product-hero.svg`
 
-- [x] **Step 1: Add the custom SVG banner**
+- [x] **Step 1: Add the custom SVG hero**
 
-Create a 1200x360 futuristic AI banner with dark background, neural graph motif, cyan/violet/green accents, and readable profile text.
+Create a bright animated product-style SVG hero with a white base, coral/yellow/teal/purple waves, AI assistant, workflow cards, code panel, ML chart, database blocks, and soft product shadows.
 
-- [ ] **Step 2: Validate asset presence**
+- [x] **Step 2: Validate asset presence**
 
-Run the validation script after README and workflow exist. Expected: PASS includes SVG root and neural motif checks.
+Run the validation script after README and workflow exist. Expected: PASS includes SVG root, bright wave, bot, workflow card, and ML chart checks.
 
 ### Task 3: GitHub Profile README
 
@@ -49,23 +49,23 @@ Run the validation script after README and workflow exist. Expected: PASS includ
 
 - [x] **Step 1: Add hero and contact section**
 
-Add the banner, title, typing animation, Telegram badge, email badge, and profile view badge.
+Add the bright hero, title, Telegram badge, email badge, and profile view badge.
 
 - [x] **Step 2: Add positioning and pillars**
 
 Add short profile copy and the three pillars: AI / ML, Full-Stack Systems, and Frontend Craft.
 
-- [x] **Step 3: Add featured projects**
+- [x] **Step 3: Add featured builds**
 
-Add curated descriptions and GitHub Readme Stats pin cards for `gitlab-telegram`, `bulbai2`, `FocusGuard`, and `HakatonHungerGames`.
+Add curated descriptions for `gitlab-telegram`, `bulbai2`, `FocusGuard`, and `HakatonHungerGames` without external repo pin cards.
 
-- [x] **Step 4: Add Project Galaxy**
+- [x] **Step 4: Add Project Shelf**
 
 List all visible repositories in a compact table so every repo is represented without weakening the first impression.
 
-- [x] **Step 5: Add stats and snake section**
+- [x] **Step 5: Add motion layer**
 
-Add GitHub stats, streak, activity graph, and contribution snake image references.
+Add light-themed GitHub stats, streak, activity graph, and contribution snake image references.
 
 ### Task 4: Contribution Snake Workflow
 
@@ -94,7 +94,7 @@ Use `crazy-max/ghaction-github-pages@v4` to publish the generated `dist` folder 
 Run:
 
 ```powershell
-& 'C:\Users\рс\Desktop\github acc\kulisML\scripts\validate-profile.ps1'
+.\scripts\validate-profile.ps1
 ```
 
 Expected: `Profile validation passed.`
@@ -107,4 +107,4 @@ Run:
 git status --short
 ```
 
-Expected: new files only in the local profile repository.
+Expected: only intended profile redesign files are changed.

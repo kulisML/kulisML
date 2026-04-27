@@ -2,7 +2,7 @@ $ErrorActionPreference = "Stop"
 
 $Root = Resolve-Path (Join-Path $PSScriptRoot "..")
 $Readme = Join-Path $Root "README.md"
-$Banner = Join-Path $Root "assets/premium-ai-hero.svg"
+$Banner = Join-Path $Root "assets/bright-product-hero.svg"
 $Workflow = Join-Path $Root ".github/workflows/snake.yml"
 
 function Assert-File {
@@ -45,7 +45,7 @@ Assert-File $Workflow
 
 $requiredReadmeText = @(
     "kulissssss / kulisML",
-    "AI Full-Stack Developer building intelligent web products",
+    "AI Product Builder crafting ML systems",
     "Aspiring Machine Learning Engineer",
     "AI / ML",
     "Full-Stack Systems",
@@ -67,9 +67,12 @@ $requiredReadmeText = @(
     "@kulissssss",
     "kulismlengineer107@gmail.com",
     "github-contribution-grid-snake",
-    "premium-ai-hero.svg",
-    "Intelligence Pipeline",
-    "Signal-first profile"
+    "bright-product-hero.svg",
+    "Featured Builds",
+    "Product Pipeline",
+    "Project Shelf",
+    "Product Studio",
+    "AI Product Builder"
 )
 
 foreach ($item in $requiredReadmeText) {
@@ -77,9 +80,10 @@ foreach ($item in $requiredReadmeText) {
 }
 
 Assert-Contains $Banner "<svg" "SVG root"
-Assert-Contains $Banner "neural" "banner neural motif"
-Assert-Contains $Banner "signature-scan" "premium hero scan animation"
-Assert-Contains $Banner "signal-orbit" "premium hero orbit animation"
+Assert-Contains $Banner "wave-coral" "bright coral wave"
+Assert-Contains $Banner "float-bot" "animated assistant bot"
+Assert-Contains $Banner "flow-card" "animated workflow card"
+Assert-Contains $Banner "ml-chart" "ML chart motif"
 Assert-Contains $Workflow "Platane/snk/svg-only@v3" "snake action"
 Assert-Contains $Workflow "github-contribution-grid-snake-dark.svg?palette=github-dark" "dark snake output"
 Assert-Contains $Workflow "target_branch: output" "output branch publish"
@@ -87,5 +91,6 @@ Assert-NotContainsRegex $Readme "(TBD|TODO|coming soon|lorem ipsum)" "placeholde
 Assert-NotContainsRegex $Readme "github-readme-stats\.vercel\.app/api/pin" "external repo pin widgets"
 Assert-NotContainsRegex $Readme "readme-typing-svg" "external typing animation"
 Assert-NotContainsRegex $Readme "No description provided" "GitHub missing-description copy"
+Assert-NotContainsRegex $Readme "tokyonight|react-dark|0D1117|premium-ai-hero|space|galaxy" "old dark space styling"
 
 Write-Host "Profile validation passed."

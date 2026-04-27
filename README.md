@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="./assets/premium-ai-hero.svg" alt="kulissssss premium AI full-stack developer animation" width="100%" />
+  <img src="./assets/bright-product-hero.svg" alt="kulissssss bright AI product builder animated hero" width="100%" />
 
   <h1>kulissssss / kulisML</h1>
 
   <p>
-    <strong>AI Full-Stack Developer building intelligent web products</strong><br/>
-    <span>Aspiring Machine Learning Engineer focused on automation, product thinking, and polished user experience.</span>
+    <strong>AI Product Builder crafting ML systems, automations, and polished web experiences</strong><br/>
+    <span>Aspiring Machine Learning Engineer with full-stack product energy.</span>
   </p>
 
   <p>
-    <code>AI / ML</code> · <code>Full-Stack Systems</code> · <code>Automation</code> · <code>Frontend Craft</code>
+    <code>AI / ML</code> | <code>Full-Stack Systems</code> | <code>Automation</code> | <code>Frontend Craft</code>
   </p>
 
   <a href="https://t.me/kulissssss">
@@ -18,25 +18,25 @@
   <a href="mailto:kulismlengineer107@gmail.com">
     <img src="https://img.shields.io/badge/Email-kulismlengineer107%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email kulismlengineer107@gmail.com" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=kulisML&style=for-the-badge&color=6ee7f9&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kulisML&style=for-the-badge&color=14b8a6&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 ---
 
-## About
+## Product Studio
 
 I am Kulis, an aspiring Machine Learning Engineer building my path through real projects in AI, automation, backend systems, and modern web interfaces.
 
-I like products that feel intelligent, useful, and sharp: bots that connect workflows, ML tools that turn raw data into decisions, and interfaces that make complex systems easier to use.
+I like products that feel useful, colorful, and alive: bots that connect workflows, ML tools that turn raw data into decisions, and interfaces that make complex systems easier to use.
 
 ```txt
-Current signal: AI + ML foundations + full-stack delivery + frontend polish
-Main direction: intelligent web products, automation systems, and applied ML
+Current signal: AI + ML foundations + full-stack delivery + bright frontend polish
+Main direction: AI products, automation systems, and applied ML
 ```
 
-## Signal-first profile
+## AI Product Builder
 
-This profile is designed like a compact product page: strong first impression, clean proof, and no noisy low-quality widgets. The goal is simple: make it obvious that I can learn fast, build useful systems, and present work with taste.
+This profile is designed like a bright product landing page: playful 3D energy, clean proof, and no noisy low-quality widgets. The goal is simple: make it obvious that I can learn fast, build useful systems, and present work with taste.
 
 ## Core Pillars
 
@@ -50,33 +50,33 @@ This profile is designed like a compact product page: strong first impression, c
 
 ### AI / ML
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=6EE7F9)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=FF6F61)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FFB86C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=34D399)
+![Python](https://img.shields.io/badge/Python-165DFF?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF5D4D?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFB800?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-14B8A6?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-101828?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-8B5CF6?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Full-Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=6EE7F9)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=34D399)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=9BD1FF)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=60A5FA)
+![TypeScript](https://img.shields.io/badge/TypeScript-165DFF?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB800?style=for-the-badge&logo=javascript&logoColor=101828)
+![Node.js](https://img.shields.io/badge/Node.js-14B8A6?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-04A7A7?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C5CFF?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2FA7FF?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Frontend Craft
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=F97316)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=38BDF8)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![React](https://img.shields.io/badge/React-14B8A6?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-101828?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF5D4D?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-165DFF?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-04A7A7?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </div>
 
-## Featured Projects
+## Featured Builds
 
 These are the first signals I want clients and recruiters to see.
 
@@ -87,7 +87,7 @@ These are the first signals I want clients and recruiters to see.
 | [FocusGuard](https://github.com/kulisML/FocusGuard) | Productivity system lab: focus tooling, local app logic, and Python product experiments. | Python |
 | [HakatonHungerGames](https://github.com/kulisML/HakatonHungerGames) | Hackathon product build: fast product thinking across TypeScript, Python, and interface work. | TypeScript, Python, CSS |
 
-## Intelligence Pipeline
+## Product Pipeline
 
 | Stage | What I build | Why it matters |
 | --- | --- | --- |
@@ -95,7 +95,7 @@ These are the first signals I want clients and recruiters to see.
 | Model | Experiment with ML logic, LLM APIs, agents, and automation decisions | Intelligence should serve the workflow, not decorate it. |
 | Product | Ship APIs, bots, dashboards, and frontend experiences | A strong system needs both backend clarity and interface polish. |
 
-## Project Galaxy
+## Project Shelf
 
 I keep the strongest projects above, and keep the rest visible here as learning labs, hackathon builds, and experiments.
 
@@ -116,18 +116,18 @@ I keep the strongest projects above, and keep the rest visible here as learning 
 | [fsdf](https://github.com/kulisML/fsdf) | Scratch learning repository | Lab |
 | [mm3](https://github.com/kulisML/mm3) | HTML/web experiment | HTML |
 
-## GitHub Signal
+## Motion Layer
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kulisML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F9&text_color=E6EDF3&icon_color=A78BFA&rank_icon=github" alt="kulisML GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=kulisML&theme=tokyonight&hide_border=true&background=0D1117&ring=6EE7F9&fire=A78BFA&currStreakLabel=6EE7F9" alt="kulisML GitHub streak stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kulisML&show_icons=true&hide_border=true&bg_color=ffffff&title_color=101828&text_color=344054&icon_color=14b8a6&rank_icon=github" alt="kulisML GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=kulisML&hide_border=true&background=FFFFFF&ring=14B8A6&fire=FF5D4D&currStreakLabel=165DFF&sideLabels=101828&currStreakNum=101828&sideNums=101828&dates=667085" alt="kulisML GitHub streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kulisML&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=6EE7F9&line=A78BFA&point=34D399" alt="kulisML GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kulisML&hide_border=true&area=true&bg_color=ffffff&color=101828&line=14b8a6&point=ff5d4d&area_color=8b5cf6" alt="kulisML GitHub activity graph" />
 </div>
 
-## Contribution Snake
+## Contribution Motion
 
 <div align="center">
   <picture>
