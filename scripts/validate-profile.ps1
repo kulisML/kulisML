@@ -2,7 +2,7 @@ $ErrorActionPreference = "Stop"
 
 $Root = Resolve-Path (Join-Path $PSScriptRoot "..")
 $Readme = Join-Path $Root "README.md"
-$Banner = Join-Path $Root "assets/ai-profile-banner.svg"
+$Banner = Join-Path $Root "assets/premium-ai-hero.svg"
 $Workflow = Join-Path $Root ".github/workflows/snake.yml"
 
 function Assert-File {
@@ -66,9 +66,10 @@ $requiredReadmeText = @(
     "mm3",
     "@kulissssss",
     "kulismlengineer107@gmail.com",
-    "readme-typing-svg",
     "github-contribution-grid-snake",
-    "github-readme-stats"
+    "premium-ai-hero.svg",
+    "Intelligence Pipeline",
+    "Signal-first profile"
 )
 
 foreach ($item in $requiredReadmeText) {
@@ -77,9 +78,14 @@ foreach ($item in $requiredReadmeText) {
 
 Assert-Contains $Banner "<svg" "SVG root"
 Assert-Contains $Banner "neural" "banner neural motif"
+Assert-Contains $Banner "signature-scan" "premium hero scan animation"
+Assert-Contains $Banner "signal-orbit" "premium hero orbit animation"
 Assert-Contains $Workflow "Platane/snk/svg-only@v3" "snake action"
 Assert-Contains $Workflow "github-contribution-grid-snake-dark.svg?palette=github-dark" "dark snake output"
 Assert-Contains $Workflow "target_branch: output" "output branch publish"
 Assert-NotContainsRegex $Readme "(TBD|TODO|coming soon|lorem ipsum)" "placeholder copy"
+Assert-NotContainsRegex $Readme "github-readme-stats\.vercel\.app/api/pin" "external repo pin widgets"
+Assert-NotContainsRegex $Readme "readme-typing-svg" "external typing animation"
+Assert-NotContainsRegex $Readme "No description provided" "GitHub missing-description copy"
 
 Write-Host "Profile validation passed."

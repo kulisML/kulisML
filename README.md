@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/ai-profile-banner.svg" alt="kulissssss AI full-stack developer banner" width="100%" />
+  <img src="./assets/premium-ai-hero.svg" alt="kulissssss premium AI full-stack developer animation" width="100%" />
 
   <h1>kulissssss / kulisML</h1>
 
@@ -8,10 +8,9 @@
     <span>Aspiring Machine Learning Engineer focused on automation, product thinking, and polished user experience.</span>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=6EE7F9&center=true&vCenter=true&width=920&lines=AI+%2F+ML+Explorer;Full-Stack+Builder;Automation-first+Developer;Frontend-minded+Product+Maker" alt="Typing animation with AI, ML, full-stack, automation, and frontend roles" />
-
-  <br/>
-  <br/>
+  <p>
+    <code>AI / ML</code> · <code>Full-Stack Systems</code> · <code>Automation</code> · <code>Frontend Craft</code>
+  </p>
 
   <a href="https://t.me/kulissssss">
     <img src="https://img.shields.io/badge/Telegram-@kulissssss-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @kulissssss" />
@@ -34,6 +33,10 @@ I like products that feel intelligent, useful, and sharp: bots that connect work
 Current signal: AI + ML foundations + full-stack delivery + frontend polish
 Main direction: intelligent web products, automation systems, and applied ML
 ```
+
+## Signal-first profile
+
+This profile is designed like a compact product page: strong first impression, clean proof, and no noisy low-quality widgets. The goal is simple: make it obvious that I can learn fast, build useful systems, and present work with taste.
 
 ## Core Pillars
 
@@ -77,27 +80,20 @@ Main direction: intelligent web products, automation systems, and applied ML
 
 These are the first signals I want clients and recruiters to see.
 
-| Project | Why it matters |
-| --- | --- |
-| [gitlab-telegram](https://github.com/kulisML/gitlab-telegram) | GitLab to Telegram automation with FastAPI, aiogram, SQLite, webhooks, daily reports, and team notifications. |
-| [bulbai2](https://github.com/kulisML/bulbai2) | Python desktop engineering tool for STL-first bulbous bow generation, evaluation, and report export. |
-| [FocusGuard](https://github.com/kulisML/FocusGuard) | Python project lab for focus/productivity tooling and local application experiments. |
-| [HakatonHungerGames](https://github.com/kulisML/HakatonHungerGames) | Hackathon-style TypeScript project with Python pieces and product-building practice. |
+| Project | Premium signal | Stack |
+| --- | --- | --- |
+| [gitlab-telegram](https://github.com/kulisML/gitlab-telegram) | Production-style automation: GitLab events, Telegram notifications, webhooks, reports, and team workflow logic. | Python, FastAPI, aiogram, SQLite |
+| [bulbai2](https://github.com/kulisML/bulbai2) | Unusual engineering tool: STL-first bulbous bow generation, evaluation, and reporting. | Python, desktop tooling |
+| [FocusGuard](https://github.com/kulisML/FocusGuard) | Productivity system lab: focus tooling, local app logic, and Python product experiments. | Python |
+| [HakatonHungerGames](https://github.com/kulisML/HakatonHungerGames) | Hackathon product build: fast product thinking across TypeScript, Python, and interface work. | TypeScript, Python, CSS |
 
-<div align="center">
-  <a href="https://github.com/kulisML/gitlab-telegram">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=kulisML&repo=gitlab-telegram&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F9&text_color=E6EDF3&icon_color=A78BFA" alt="gitlab-telegram GitHub card" />
-  </a>
-  <a href="https://github.com/kulisML/bulbai2">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=kulisML&repo=bulbai2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F9&text_color=E6EDF3&icon_color=A78BFA" alt="bulbai2 GitHub card" />
-  </a>
-  <a href="https://github.com/kulisML/FocusGuard">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=kulisML&repo=FocusGuard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F9&text_color=E6EDF3&icon_color=A78BFA" alt="FocusGuard GitHub card" />
-  </a>
-  <a href="https://github.com/kulisML/HakatonHungerGames">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=kulisML&repo=HakatonHungerGames&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F9&text_color=E6EDF3&icon_color=A78BFA" alt="HakatonHungerGames GitHub card" />
-  </a>
-</div>
+## Intelligence Pipeline
+
+| Stage | What I build | Why it matters |
+| --- | --- | --- |
+| Data | Parse inputs, connect APIs, prepare useful project signals | Good AI products start with reliable data flow. |
+| Model | Experiment with ML logic, LLM APIs, agents, and automation decisions | Intelligence should serve the workflow, not decorate it. |
+| Product | Ship APIs, bots, dashboards, and frontend experiences | A strong system needs both backend clarity and interface polish. |
 
 ## Project Galaxy
 
