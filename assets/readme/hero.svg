@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Kulis — practical AI systems</title>
+  <desc id="desc">A technical pipeline connecting speech, map data, and developer context to useful software outputs.</desc>
+
+  <rect width="1200" height="400" rx="28" fill="#0B0F14"/>
+  <path d="M64 58H1136M64 342H1136" stroke="#26313D" stroke-width="2"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="64" y="94" fill="#5EEAD4" font-size="18" font-weight="700" letter-spacing="3">KULIS / AI SYSTEMS</text>
+    <text x="64" y="174" fill="#F4F7FB" font-size="64" font-weight="750">Useful software</text>
+    <text x="64" y="238" fill="#F4F7FB" font-size="64" font-weight="750">from messy inputs.</text>
+    <text x="66" y="286" fill="#9AA8B7" font-size="24">AI tools · data pipelines · automation</text>
+  </g>
+
+  <g transform="translate(760 72)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <g fill="#111820" stroke="#344250" stroke-width="2">
+      <rect x="0" y="0" width="154" height="56" rx="12"/>
+      <rect x="0" y="82" width="154" height="56" rx="12"/>
+      <rect x="0" y="164" width="154" height="56" rx="12"/>
+      <rect x="244" y="82" width="164" height="56" rx="12"/>
+    </g>
+
+    <g fill="#D8E1EA" font-size="20">
+      <text x="22" y="35">speech</text>
+      <text x="22" y="117">map data</text>
+      <text x="22" y="199">logs + APIs</text>
+      <text x="266" y="117">working tools</text>
+    </g>
+
+    <g fill="none" stroke="#5EEAD4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M154 28H198Q218 28 218 48V98Q218 110 230 110H244"/>
+      <path d="M154 110H244"/>
+      <path d="M154 192H198Q218 192 218 172V122Q218 110 230 110H244"/>
+    </g>
+
+    <circle cx="218" cy="110" r="7" fill="#A3E635"/>
+    <path d="M236 102L244 110L236 118" fill="none" stroke="#5EEAD4" stroke-width="3"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#728091">
+    <text x="64" y="372">GO · RUST · PYTHON · TYPESCRIPT</text>
+    <text x="905" y="372">BUILD → TEST → SHIP</text>
+  </g>
+</svg>
